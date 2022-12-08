@@ -66,7 +66,7 @@ function changeModel() {
         modelLabel.innerHTML = 'Model XYZ';
     }
 
-    recalculate()
+    recalculate();
 }
 modelButton.addEventListener("click", changeModel);
 
